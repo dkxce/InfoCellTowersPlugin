@@ -1,0 +1,10 @@
+C:\Users\dkxce\source\repos\InfoCellTowers\InfoCellTowers\obj\Debug\InfoCellTowers.csproj.AssemblyReference.cache
+C:\Users\dkxce\source\repos\InfoCellTowers\InfoCellTowers\obj\Debug\InfoCellTowers.csproj.CoreCompileInputs.cache
+C:\Users\dkxce\source\repos\InfoCellTowers\InfoCellTowers\bin\Debug\InfoCellTowers.exe.config
+C:\Users\dkxce\source\repos\InfoCellTowers\InfoCellTowers\bin\Debug\InfoCellTowers.exe
+C:\Users\dkxce\source\repos\InfoCellTowers\InfoCellTowers\bin\Debug\InfoCellTowers.pdb
+C:\Users\dkxce\source\repos\InfoCellTowers\InfoCellTowers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dkxce\source\repos\InfoCellTowers\InfoCellTowers\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dkxce\source\repos\InfoCellTowers\InfoCellTowers\obj\Debug\InfoCellTowers.csproj.CopyComplete
+C:\Users\dkxce\source\repos\InfoCellTowers\InfoCellTowers\obj\Debug\InfoCellTowers.exe
+C:\Users\dkxce\source\repos\InfoCellTowers\InfoCellTowers\obj\Debug\InfoCellTowers.pdb

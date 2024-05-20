@@ -1,0 +1,948 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml>
+<Document>
+<name>InfoCellTowers</name>
+<createdby>InfoCellTowers</createdby>
+<Folder><name><![CDATA[InfoCellTowers (55.55, 37.55) (Объектов: 154)]]></name>
+<Placemark>
+<styleUrl>#catMegafon</styleUrl>
+<name><![CDATA[Мегафон, Теле2 (2163993)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2163993&use=0" target="_blank"><b>Проект №2163993 от 08.11.2022 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.559643,55.553478,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Теле2 (2163791)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2163791&use=0" target="_blank"><b>Проект №2163791 от 16.09.2022 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.530933,55.537251,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн, MTC, Мегафон, Теле2 (2163769)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2163769&use=0" target="_blank"><b>Проект №2163769 от 13.09.2022 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.554861,55.559115,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Мегафон (2163595)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2163595&use=0" target="_blank"><b>Проект №2163595 от 15.08.2022 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.567144,55.569859,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMegafon</styleUrl>
+<name><![CDATA[Мегафон, Теле2 (2163571)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2163571&use=0" target="_blank"><b>Проект №2163571 от 12.08.2022 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.526514,55.545357,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMegafon</styleUrl>
+<name><![CDATA[Мегафон, MTC, Билайн (2163464)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2163464&use=0" target="_blank"><b>Проект №2163464 от 21.07.2022 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.544671,55.540374,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн (2163277)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2163277&use=0" target="_blank"><b>Проект №2163277 от 07.07.2022 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.555865,55.546629,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2, MTC, Билайн (2162532)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2162532&use=0" target="_blank"><b>Проект №2162532 от 09.11.2022 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.55363,55.55613,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2, Билайн (2162469)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2162469&use=0" target="_blank"><b>Проект №2162469 от 02.11.2022 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.564537,55.571838,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Мегафон, Теле2 (2162223)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2162223&use=0" target="_blank"><b>Проект №2162223 от 20.09.2022 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.543209,55.546397,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2, Билайн (2161700)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2161700&use=0" target="_blank"><b>Проект №2161700 от 04.07.2022 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.553601,55.543386,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2, MTC, Билайн, Мегафон (2161676)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2161676&use=0" target="_blank"><b>Проект №2161676 от 27.06.2022 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.556667,55.545658,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Мегафон, Теле2 (2161422)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2161422&use=0" target="_blank"><b>Проект №2161422 от 09.06.2022 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.5432475,55.5463321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Билайн, Теле2 (2161030)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2161030&use=0" target="_blank"><b>Проект №2161030 от 25.04.2022 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.538537,55.549337,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMegafon</styleUrl>
+<name><![CDATA[Мегафон, MTC, Билайн (2160782)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2160782&use=0" target="_blank"><b>Проект №2160782 от 29.03.2022 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.544671,55.540374,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн, MTC, Мегафон (2160534)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2160534&use=0" target="_blank"><b>Проект №2160534 от 06.06.2022 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.573905,55.547734,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн, Теле2 (2160145)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2160145&use=0" target="_blank"><b>Проект №2160145 от 29.04.2022 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.563347,55.550839,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2, MTC (2159711)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2159711&use=0" target="_blank"><b>Проект №2159711 от 04.04.2022 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.570556,55.567273,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2 (2159706)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2159706&use=0" target="_blank"><b>Проект №2159706 от 30.03.2022 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.570219,55.549777,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC (2159579)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2159579&use=0" target="_blank"><b>Проект №2159579 от 24.03.2022 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.560361,55.549572,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2, MTC, Билайн, Мегафон (2159427)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2159427&use=0" target="_blank"><b>Проект №2159427 от 04.03.2022 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.555031,55.559687,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2, Билайн (2159059)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2159059&use=0" target="_blank"><b>Проект №2159059 от 11.02.2022 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.569563,55.540037,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMegafon</styleUrl>
+<name><![CDATA[Мегафон (2067895)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2067895&use=0" target="_blank"><b>Проект №2067895 от 10.03.2022 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.555808,55.541364,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн (2066813)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2066813&use=0" target="_blank"><b>Проект №2066813 от 24.01.2022 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.530376,55.532324,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMegafon</styleUrl>
+<name><![CDATA[Мегафон, MTC, Билайн (2066371)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2066371&use=0" target="_blank"><b>Проект №2066371 от 10.01.2022 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.567144,55.569859,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн (2066357)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2066357&use=0" target="_blank"><b>Проект №2066357 от 10.01.2022 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.571467,55.562361,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2, MTC, Билайн, Мегафон (2066163)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2066163&use=0" target="_blank"><b>Проект №2066163 от 24.12.2021 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.554794,55.548856,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC (2065608)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2065608&use=0" target="_blank"><b>Проект №2065608 от 24.12.2021 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.565969,55.563613,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Мегафон, Теле2 (2065361)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2065361&use=0" target="_blank"><b>Проект №2065361 от 02.12.2021 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.5432475,55.5463321,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMegafon</styleUrl>
+<name><![CDATA[Мегафон, MTC (2064566)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2064566&use=0" target="_blank"><b>Проект №2064566 от 23.11.2021 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.568134,55.552124,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMegafon</styleUrl>
+<name><![CDATA[Мегафон, MTC, Билайн, Теле2 (2064173)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2064173&use=0" target="_blank"><b>Проект №2064173 от 22.10.2021 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.557952,55.537827,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2, Билайн (2063822)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2063822&use=0" target="_blank"><b>Проект №2063822 от 15.11.2021 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.564537,55.571836,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2, MTC, Билайн, Мегафон (2063302)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2063302&use=0" target="_blank"><b>Проект №2063302 от 28.09.2021 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.529453,55.550148,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Билайн, Теле2 (2063032)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2063032&use=0" target="_blank"><b>Проект №2063032 от 17.09.2021 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.553566,55.556168,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2, Билайн (2062510)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2062510&use=0" target="_blank"><b>Проект №2062510 от 20.08.2021 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.563347,55.55083,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн (2062200)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2062200&use=0" target="_blank"><b>Проект №2062200 от 21.07.2021 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.558964,55.549058,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2 (2061595)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2061595&use=0" target="_blank"><b>Проект №2061595 от 14.09.2021 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.526461,55.545226,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн (2061546)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2061546&use=0" target="_blank"><b>Проект №2061546 от 10.09.2021 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.56598,55.566665,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2 (2061350)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2061350&use=0" target="_blank"><b>Проект №2061350 от 02.09.2021 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.559634,55.553478,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2, MTC, Билайн, Мегафон (2061095)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2061095&use=0" target="_blank"><b>Проект №2061095 от 09.08.2021 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.57242,55.54184,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2, MTC, Мегафон (2009644)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2009644&use=0" target="_blank"><b>Проект №2009644 от 25.06.2021 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.542304,55.546174,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2 (2009601)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2009601&use=0" target="_blank"><b>Проект №2009601 от 08.06.2021 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.571515,55.545628,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Билайн, Мегафон (2009372)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2009372&use=0" target="_blank"><b>Проект №2009372 от 30.04.2021 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.554861,55.559115,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC (2008488)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2008488&use=0" target="_blank"><b>Проект №2008488 от 25.05.2021 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.564196,55.565262,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн (2008299)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2008299&use=0" target="_blank"><b>Проект №2008299 от 18.05.2021 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.538528,55.535194,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Билайн, Мегафон, Теле2 (2007891)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2007891&use=0" target="_blank"><b>Проект №2007891 от 25.03.2021 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.533033,55.540742,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Билайн, Мегафон, Теле2 (2007875)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2007875&use=0" target="_blank"><b>Проект №2007875 от 29.03.2021 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.5572,55.552,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Теле2 (2007867)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2007867&use=0" target="_blank"><b>Проект №2007867 от 30.03.2021 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.537218,55.538473,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Билайн (2007631)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2007631&use=0" target="_blank"><b>Проект №2007631 от 04.03.2021 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.563861,55.540806,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Билайн, Мегафон, Теле2 (2007527)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2007527&use=0" target="_blank"><b>Проект №2007527 от 09.03.2021 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.557972,55.537861,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMegafon</styleUrl>
+<name><![CDATA[Мегафон, MTC, Билайн (2006924)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2006924&use=0" target="_blank"><b>Проект №2006924 от 05.04.2021 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.554861,55.559115,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Билайн (2006686)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2006686&use=0" target="_blank"><b>Проект №2006686 от 05.03.2021 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.523684,55.551289,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMegafon</styleUrl>
+<name><![CDATA[Мегафон (2006150)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2006150&use=0" target="_blank"><b>Проект №2006150 от 29.12.2020 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.555808,55.541364,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Билайн, Мегафон (2006014)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2006014&use=0" target="_blank"><b>Проект №2006014 от 09.12.2020 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.573848,55.547806,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2 (2005933)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2005933&use=0" target="_blank"><b>Проект №2005933 от 20.01.2021 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.570373,55.546382,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2 (2005927)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2005927&use=0" target="_blank"><b>Проект №2005927 от 20.01.2021 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.566864,55.543487,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMegafon</styleUrl>
+<name><![CDATA[Мегафон, MTC, Теле2 (2005912)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2005912&use=0" target="_blank"><b>Проект №2005912 от 19.01.2021 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.556735,55.545265,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн (2005632)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2005632&use=0" target="_blank"><b>Проект №2005632 от 09.12.2020 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.542395,55.537262,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Теле2 (2005460)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2005460&use=0" target="_blank"><b>Проект №2005460 от 17.12.2020 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.550807,55.547607,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2, MTC (2005350)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2005350&use=0" target="_blank"><b>Проект №2005350 от 04.12.2020 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.550917,55.547616,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Мегафон, Теле2 (2005137)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2005137&use=0" target="_blank"><b>Проект №2005137 от 04.12.2020 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.539148,55.542517,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Мегафон, Теле2 (2004789)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2004789&use=0" target="_blank"><b>Проект №2004789 от 13.11.2020 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.543127,55.546378,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMegafon</styleUrl>
+<name><![CDATA[Мегафон, MTC, Билайн, Теле2 (2004224)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2004224&use=0" target="_blank"><b>Проект №2004224 от 15.09.2020 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.554794,55.548856,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMegafon</styleUrl>
+<name><![CDATA[Мегафон (2004043)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2004043&use=0" target="_blank"><b>Проект №2004043 от 02.09.2020 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.567137,55.564289,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Билайн, Мегафон, Теле2 (1943919)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1943919&use=0" target="_blank"><b>Проект №1943919 от 09.09.2020 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.572438,55.54182,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Мегафон, Теле2 (1943915)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1943915&use=0" target="_blank"><b>Проект №1943915 от 09.09.2020 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.543201,55.546433,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн (1943753)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1943753&use=0" target="_blank"><b>Проект №1943753 от 25.08.2020 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.569608,55.540022,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Теле2 (1943624)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1943624&use=0" target="_blank"><b>Проект №1943624 от 13.10.2020 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.556528,55.545639,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн, MTC, Мегафон, Теле2 (1943439)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1943439&use=0" target="_blank"><b>Проект №1943439 от 13.10.2020 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.55616,55.552381,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Билайн (1943434)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1943434&use=0" target="_blank"><b>Проект №1943434 от 11.08.2020 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.561399,55.552469,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC (1943431)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1943431&use=0" target="_blank"><b>Проект №1943431 от 11.08.2020 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.553859,55.542037,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC (1943427)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1943427&use=0" target="_blank"><b>Проект №1943427 от 11.08.2020 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.524849,55.540943,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн, MTC, Теле2 (1943324)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1943324&use=0" target="_blank"><b>Проект №1943324 от 22.07.2020 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.553566,55.556168,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC (1823914)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1823914&use=0" target="_blank"><b>Проект №1823914 от 26.08.2020 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.553871,55.542056,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Билайн, Мегафон (1822879)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1822879&use=0" target="_blank"><b>Проект №1822879 от 01.10.2020 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.573836,55.547773,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Мегафон (1822763)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1822763&use=0" target="_blank"><b>Проект №1822763 от 25.09.2020 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.568799,55.552572,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC (1821640)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1821640&use=0" target="_blank"><b>Проект №1821640 от 14.04.2020 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.564196,55.565262,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Теле2 (1821155)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1821155&use=0" target="_blank"><b>Проект №1821155 от 05.03.2020 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.556667,55.545658,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMegafon</styleUrl>
+<name><![CDATA[Мегафон, MTC, Билайн, Теле2 (1821088)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1821088&use=0" target="_blank"><b>Проект №1821088 от 28.02.2020 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.532679,55.546461,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн (1821077)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1821077&use=0" target="_blank"><b>Проект №1821077 от 28.02.2020 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.571213,55.562317,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC (1820989)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1820989&use=0" target="_blank"><b>Проект №1820989 от 30.10.2019 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.553566,55.556168,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2 (1820969)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1820969&use=0" target="_blank"><b>Проект №1820969 от 23.10.2019 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.553599,55.543387,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2 (1820915)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1820915&use=0" target="_blank"><b>Проект №1820915 от 17.10.2019 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.54774,55.54793,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2, MTC, Билайн, Мегафон (1820909)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1820909&use=0" target="_blank"><b>Проект №1820909 от 11.10.2019 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.533033,55.540742,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн, Теле2 (1819678)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1819678&use=0" target="_blank"><b>Проект №1819678 от 15.04.2020 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.555802,55.546572,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн (1819677)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1819677&use=0" target="_blank"><b>Проект №1819677 от 15.04.2020 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.555802,55.546572,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Мегафон, Теле2 (1819516)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1819516&use=0" target="_blank"><b>Проект №1819516 от 13.03.2020 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.557159,55.551979,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2, Билайн (1819129)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1819129&use=0" target="_blank"><b>Проект №1819129 от 28.01.2020 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.5488011,55.543261,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн, Теле2 (1818367)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1818367&use=0" target="_blank"><b>Проект №1818367 от 12.12.2019 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.564546,55.571826,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2, MTC (1817925)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1817925&use=0" target="_blank"><b>Проект №1817925 от 31.12.2019 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.55363,55.55613,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC (1817493)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1817493&use=0" target="_blank"><b>Проект №1817493 от 12.11.2019 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.536902,55.538465,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMegafon</styleUrl>
+<name><![CDATA[Мегафон, MTC, Билайн (1816845)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1816845&use=0" target="_blank"><b>Проект №1816845 от 17.07.2019 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.573905,55.547734,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMegafon</styleUrl>
+<name><![CDATA[Мегафон, MTC, Теле2 (1816688)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1816688&use=0" target="_blank"><b>Проект №1816688 от 28.06.2019 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.538707,55.542244,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2, MTC (1815967)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1815967&use=0" target="_blank"><b>Проект №1815967 от 13.08.2019 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.556667,55.545658,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Билайн, Мегафон, Теле2 (1815798)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1815798&use=0" target="_blank"><b>Проект №1815798 от 17.07.2019 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.531264,55.550347,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Билайн, Мегафон, Теле2 (1815732)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1815732&use=0" target="_blank"><b>Проект №1815732 от 11.07.2019 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.531264,55.550347,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMegafon</styleUrl>
+<name><![CDATA[Мегафон, MTC, Билайн, Теле2 (1814124)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1814124&use=0" target="_blank"><b>Проект №1814124 от 11.01.2019 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.557914,55.537903,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMegafon</styleUrl>
+<name><![CDATA[Мегафон, MTC, Теле2 (1814091)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1814091&use=0" target="_blank"><b>Проект №1814091 от 10.01.2019 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.542281,55.546199,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2, Мегафон (1705740)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1705740&use=0" target="_blank"><b>Проект №1705740 от 11.01.2019 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.53725,55.5345,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн, Мегафон (1704986)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1704986&use=0" target="_blank"><b>Проект №1704986 от 25.12.2018 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.567144,55.569859,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн (1704759)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1704759&use=0" target="_blank"><b>Проект №1704759 от 05.12.2018 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.571467,55.562361,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Мегафон, Теле2 (1704457)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1704457&use=0" target="_blank"><b>Проект №1704457 от 13.11.2018 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.543127,55.546378,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Билайн (1625774)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1625774&use=0" target="_blank"><b>Проект №1625774 от 21.08.2018 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.5739,55.5477,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Билайн, Мегафон (1625726)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1625726&use=0" target="_blank"><b>Проект №1625726 от 10.08.2018 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.554861,55.559115,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Билайн (1625640)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1625640&use=0" target="_blank"><b>Проект №1625640 от 03.08.2018 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.563849,55.55736,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Мегафон (1625607)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1625607&use=0" target="_blank"><b>Проект №1625607 от 02.08.2018 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.568799,55.552572,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Билайн (1625380)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1625380&use=0" target="_blank"><b>Проект №1625380 от 22.06.2018 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.563849,55.540769,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Билайн, Мегафон, Теле2 (1625198)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1625198&use=0" target="_blank"><b>Проект №1625198 от 13.06.2018 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.557972,55.537861,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн (1624926)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1624926&use=0" target="_blank"><b>Проект №1624926 от 29.06.2018 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.529439,55.553004,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн (1624917)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1624917&use=0" target="_blank"><b>Проект №1624917 от 28.06.2018 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.55001,55.552058,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн (1624915)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1624915&use=0" target="_blank"><b>Проект №1624915 от 28.06.2018 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.530376,55.532324,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн (1624896)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1624896&use=0" target="_blank"><b>Проект №1624896 от 15.06.2018 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.562981,55.545211,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн, MTC (1624853)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1624853&use=0" target="_blank"><b>Проект №1624853 от 09.06.2018 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.563849,55.540769,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн (1624769)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1624769&use=0" target="_blank"><b>Проект №1624769 от 19.06.2018 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.540786,55.548643,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн (1624752)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1624752&use=0" target="_blank"><b>Проект №1624752 от 09.06.2018 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.548164,55.5543698,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2 (1624686)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1624686&use=0" target="_blank"><b>Проект №1624686 от 24.05.2018 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.55516,55.55997,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн (1624336)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1624336&use=0" target="_blank"><b>Проект №1624336 от 20.04.2018 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.55001,55.552058,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн, Мегафон (1624279)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1624279&use=0" target="_blank"><b>Проект №1624279 от 12.04.2018 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.554861,55.559115,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн (1623927)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1623927&use=0" target="_blank"><b>Проект №1623927 от 09.02.2018 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.571145,55.56236,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн, MTC, Мегафон, Теле2 (1623908)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1623908&use=0" target="_blank"><b>Проект №1623908 от 23.01.2018 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.557914,55.537903,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн (1623884)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1623884&use=0" target="_blank"><b>Проект №1623884 от 29.12.2017 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.55001,55.552058,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн (1623703)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1623703&use=0" target="_blank"><b>Проект №1623703 от 22.02.2018 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.540786,55.548643,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн (1623548)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1623548&use=0" target="_blank"><b>Проект №1623548 от 28.11.2017 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.529439,55.553004,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн (1623397)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1623397&use=0" target="_blank"><b>Проект №1623397 от 07.11.2017 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.563817,55.540795,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Мегафон (1623268)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1623268&use=0" target="_blank"><b>Проект №1623268 от 15.04.2022 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.56818,55.567842,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Билайн, Мегафон, Теле2 (1563634)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1563634&use=0" target="_blank"><b>Проект №1563634 от 14.03.2018 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.532983,55.5405777,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн (1563493)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1563493&use=0" target="_blank"><b>Проект №1563493 от 21.02.2018 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.527496,55.546783,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн (1563107)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1563107&use=0" target="_blank"><b>Проект №1563107 от 21.12.2017 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.566259,55.550454,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн (1563029)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1563029&use=0" target="_blank"><b>Проект №1563029 от 15.12.2017 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.530376,55.532324,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн, Теле2 (1562942)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1562942&use=0" target="_blank"><b>Проект №1562942 от 12.12.2017 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.563347,55.550839,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн (1562905)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1562905&use=0" target="_blank"><b>Проект №1562905 от 05.12.2017 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.548164,55.543698,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Теле2 (1561795)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1561795&use=0" target="_blank"><b>Проект №1561795 от 12.07.2017 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.550813,55.547599,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Билайн (1561478)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1561478&use=0" target="_blank"><b>Проект №1561478 от 02.06.2017 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.573861,55.54775,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTC</styleUrl>
+<name><![CDATA[MTC, Теле2 (1561353)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1561353&use=0" target="_blank"><b>Проект №1561353 от 12.05.2017 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.539148,55.542517,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMegafon</styleUrl>
+<name><![CDATA[Мегафон (1559469)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1559469&use=0" target="_blank"><b>Проект №1559469 от 05.04.2017 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.554861,55.559115,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн (1559412)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1559412&use=0" target="_blank"><b>Проект №1559412 от 20.01.2017 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.555865,55.546629,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMegafon</styleUrl>
+<name><![CDATA[Мегафон (1559363)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1559363&use=0" target="_blank"><b>Проект №1559363 от 13.01.2017 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.568134,55.552124,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн (1559053)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1559053&use=0" target="_blank"><b>Проект №1559053 от 09.12.2016 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.538528,55.535194,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2 (1513384)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1513384&use=0" target="_blank"><b>Проект №1513384 от 09.09.2016 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.55897,55.54766,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMegafon</styleUrl>
+<name><![CDATA[Мегафон, MTC (1513254)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1513254&use=0" target="_blank"><b>Проект №1513254 от 22.11.2016 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.544697,55.5405,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2 (1512749)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1512749&use=0" target="_blank"><b>Проект №1512749 от 16.08.2016 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.57242,55.54184,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[Билайн, Теле2 (1064868)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=1064868&use=0" target="_blank"><b>Проект №1064868 от 07.12.2021 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.553687,55.543525,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTS</styleUrl>
+<name><![CDATA[МТС, Билайн, Теле2 (2164849)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2164849&use=0" target="_blank"><b>Проект №2164849 от 08.06.2023 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.553566,55.556168,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTS</styleUrl>
+<name><![CDATA[МТС, Билайн, Теле2 (2164255)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2164255&use=0" target="_blank"><b>Проект №2164255 от 23.01.2023 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.553566,55.556168,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2, МТС (2210473)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2210473&use=0" target="_blank"><b>Проект №2210473 от 21.09.2023 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.535983,55.538522,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2 (2210464)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2210464&use=0" target="_blank"><b>Проект №2210464 от 20.09.2023 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.558989,55.547705,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2 (2210461)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2210461&use=0" target="_blank"><b>Проект №2210461 от 20.09.2023 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.54774,55.54793,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2, МТС (2210456)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2210456&use=0" target="_blank"><b>Проект №2210456 от 21.09.2023 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.564715,55.567911,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2, МТС (2210440)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2210440&use=0" target="_blank"><b>Проект №2210440 от 15.09.2023 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.530899,55.537282,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[Теле2, Мегафон (2210135)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2210135&use=0" target="_blank"><b>Проект №2210135 от 02.08.2023 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.53725,55.5345,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[БС № MS4343, Теле2, МТС, Мегафон (2211143)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2211143&use=0" target="_blank"><b>Проект №2211143 от 02.02.2024 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.542304,55.546174,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catTele2</styleUrl>
+<name><![CDATA[БС № M, Теле2 (2211112)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2211112&use=0" target="_blank"><b>Проект №2211112 от 01.02.2024 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.546672,55.55138,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catMTS</styleUrl>
+<name><![CDATA[БС № 77-17741DL18, МТС, Мегафон, Теле2 (2211065)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2211065&use=0" target="_blank"><b>Проект №2211065 от 19.01.2024 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.559634,55.553478,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#catBilajn</styleUrl>
+<name><![CDATA[БС № 33573, Билайн, Мегафон, Теле2 (2166693)]]></name>
+<description><![CDATA[<p><a href="http://fp.crc.ru/doc/?oper=s&type=max&text_prodnm=&text_ff_firm=&text_pril=&pril=on&text_n_state=&text_n_org=&text_n_otdel=&text_n_okp=&text_n_currnumb=&text_n_char=&text_n_year=&text_serialnumb=2166693&use=0" target="_blank"><b>Проект №2166693 от 27.02.2024 г. на сайте fp.crc.ru</b></a> </p>]]></description>
+<Point><coordinates>37.54325,55.547833333,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Style id="cat0"><IconStyle><Icon><href>images/cat0.png</href></Icon></IconStyle></Style>
+<Style id="cat1"><IconStyle><Icon><href>images/cat1.png</href></Icon></IconStyle></Style>
+<Style id="cat2"><IconStyle><Icon><href>images/cat2.png</href></Icon></IconStyle></Style>
+<Style id="cat3"><IconStyle><Icon><href>images/cat3.png</href></Icon></IconStyle></Style>
+<Style id="cat4"><IconStyle><Icon><href>images/cat4.png</href></Icon></IconStyle></Style>
+<Style id="cat5"><IconStyle><Icon><href>images/cat5.png</href></Icon></IconStyle></Style>
+<Style id="cat6"><IconStyle><Icon><href>images/cat6.png</href></Icon></IconStyle></Style>
+<Style id="cat7"><IconStyle><Icon><href>images/cat7.png</href></Icon></IconStyle></Style>
+<Style id="cat8"><IconStyle><Icon><href>images/cat8.png</href></Icon></IconStyle></Style>
+<Style id="cat9"><IconStyle><Icon><href>images/cat9.png</href></Icon></IconStyle></Style>
+<Style id="cat10"><IconStyle><Icon><href>images/cat10.png</href></Icon></IconStyle></Style>
+<Style id="cat11"><IconStyle><Icon><href>images/cat11.png</href></Icon></IconStyle></Style>
+<Style id="cat12"><IconStyle><Icon><href>images/cat12.png</href></Icon></IconStyle></Style>
+<Style id="cat13"><IconStyle><Icon><href>images/cat13.png</href></Icon></IconStyle></Style>
+<Style id="cat14"><IconStyle><Icon><href>images/cat14.png</href></Icon></IconStyle></Style>
+</Document>
+</kml>
